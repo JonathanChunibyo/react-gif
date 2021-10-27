@@ -9,6 +9,7 @@ export const AddCategory = ({ setcategory }) => {
     const [inputValue, setinputValue] = useState('');
     const handleInputvalue = (e) => {
         setinputValue(e.target.value);
+        console.log('soy la consola Hola la consola')
     }
     const handleSubmit = (e) => {
         e.preventDefault();

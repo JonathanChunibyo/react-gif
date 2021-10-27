@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`evaluar funcionalidad de <GifGrid />  toMatchSnapshot - muestre lo que esta en la page  1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__zoomInDown"
+  >
+     
+    One Punch
+     
+  </h3>
+  <div
+    className="cardgrid"
+  >
+    <GiftGridItem
+      id="BCA"
+      key="BCA"
+      title="cosa"
+      url="www.book.com"
+    />
+    <GiftGridItem
+      id="ABC"
+      key="ABC"
+      title="cualquier cosa"
+      url="www.facebook.com"
+    />
+  </div>
+</Fragment>
+`;

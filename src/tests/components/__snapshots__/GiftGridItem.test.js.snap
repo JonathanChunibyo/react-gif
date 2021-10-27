@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`prueba GiftGridItem  verificar con snapshots los cambios que reciba el aplicativo  1`] = `
+<div
+  className="card animate__animated animate__fadeInLeft"
+>
+  <p>
+    Hola soy un titulo
+  </p>
+  <img
+    alt="Hola soy un titulo"
+    src="www.facebook.com"
+  />
+</div>
+`;

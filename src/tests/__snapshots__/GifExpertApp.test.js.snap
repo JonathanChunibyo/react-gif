@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando componente GifExpertApp Inicializar en cero las categorias - poner dos y referenciar cuantas hay 1`] = `
+<Fragment>
+  <h2>
+    Git Expert App
+  </h2>
+  <AddCategory
+    setcategory={[Function]}
+  />
+  <hr />
+  <ol>
+    <GifGrid
+      category="one punch"
+      key="one punch0.48809218924971076"
+    />
+    <GifGrid
+      category="one piece"
+      key="one piece0.18737759462217385"
+    />
+    <GifGrid
+      category="sailor moon"
+      key="sailor moon0.9398530291482154"
+    />
+  </ol>
+</Fragment>
+`;
+
+exports[`Probando componente GifExpertApp snapshot de gitExpertApp  1`] = `
+<Fragment>
+  <h2>
+    Git Expert App
+  </h2>
+  <AddCategory
+    setcategory={[Function]}
+  />
+  <hr />
+  <ol />
+</Fragment>
+`;
